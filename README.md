@@ -1,2 +1,2 @@
-# likedIt
+# LikedIt
 senior project
