@@ -1,2 +1,2 @@
 # LikedIt
-senior project
+web site for the senior project's promotion
